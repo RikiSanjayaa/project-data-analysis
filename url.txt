@@ -1,1 +1,1 @@
-// tempat url streamlit yg sudah di deploy ke cloud
+https://rikisanjayaa-project-data-analysis-dashboarddashboard-kblkoi.streamlit.app/
